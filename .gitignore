@@ -5,13 +5,15 @@ __pycache__/
 *.pyd
 *.ipynb_checkpoints
 
-# Environment
-.env
-venv/
-env/
+# VSCode settings
+.vscode/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # Data
 data/
+*.csv
+
+*.pkl
+*.joblib
